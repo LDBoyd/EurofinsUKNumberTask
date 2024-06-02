@@ -1,0 +1,41 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.headerSection {
+    width: 100%;
+    padding: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+form {
+    width: 80%;
+    margin: 2% auto;
+}
+input {
+    margin: 1%;
+}
+
+.number {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 1%;
+    width: 18%;
+    display: inline-block;
+}
+
+.eurofins {
+    background-color: red;
+}
+
+.three {
+    background-color: blue;
+}
+
+.five {
+    background-color: green;
+}
